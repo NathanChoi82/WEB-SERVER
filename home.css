@@ -55,5 +55,10 @@ body{
     border: 1px solid #000000;
     min-height: 400px;
     border-top: none;
-    background: #ffffff
+    background: #ffdbef
+}
+
+.homecontent img{
+    width: 1000px;
+    height: 650px;
 }
